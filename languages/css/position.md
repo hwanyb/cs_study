@@ -1,6 +1,6 @@
 # Position
 ## CSS에서 Position이 무엇인가요?
-    `position` 속성은 **문서 상에 요소를 배치하는 방법을 지정**합니다.
+`position` 속성은 **문서 상에 요소를 배치하는 방법을 지정**합니다.
 - `static` : 요소를 일반적인 문서 흐름에 따라 배치합니다.
 - `relative` : static + 자신을 기준으로 top, right, bottom, left의 값에 따라 [offset](#offset-오프셋)을 적용합니다.
 - `absolute` : 요소를 일반적인 문서 흐름에서 제거하고, 가장 가까운 위치 지정 부모 요소에 대해 상대적으로 배치합니다.
