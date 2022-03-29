@@ -1,5 +1,5 @@
-# Closure
-## Closure 란 무엇인가요?
+# 📌 Closure
+## ✅ Closure 란 무엇인가요?
 함수와 함수가 선언된 어휘적 환경(Lexical Environment)의 조합입니다.
 또한 함수가 속한 Lexical Scope를 기억하여 함수가 Lexical Scope 밖에서 실행될 때도
 그 스코프에 접근할 수 있게 하는 기능을 말합니다.
