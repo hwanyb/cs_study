@@ -18,6 +18,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
     - [Closure](/languages/javascript/closure.md)
     - [Hoisting](/languages/javascript/hoisting.md)
     - [this](/languages/javascript/this.md)
+    - [null, undefined, undeclared, NaN](/languages/javascript/null_undefined_nan.md)
 # 📌 Web
 - [브라우저 동작 원리](/web/browser_works.md)
 - [브라우저 스토리지](/web/browser_storage.md)
@@ -63,6 +64,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
 13. [자바스크립트에서 비동기적으로 코딩하는 법을 설명해 주세요.](/languages/javascript/async.md)
 14. [SSR과 CSR의 차이에 대해 설명해 주세요.](/web/SSR_CSR.md)
 15. [SPA에 대해 설명해 주세요.](/web/SPA.md)
+16. [null, undefined, undeclared, NaN에 대해 설명해 주세요.](/languages/javascript/null_undefined_nan.md)
 # ⭐⭐⭐
 # ⭐⭐
 # ⭐
