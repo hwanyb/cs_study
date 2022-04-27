@@ -19,6 +19,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
     - [Hoisting](/languages/javascript/hoisting.md)
     - [this](/languages/javascript/this.md)
     - [null, undefined, undeclared, NaN](/languages/javascript/null_undefined_nan.md)
+    - [event delegation](/languages/javascript/event_delegation.md)
 # 📌 Web
 - [브라우저 동작 원리](/web/browser_works.md)
 - [브라우저 스토리지](/web/browser_storage.md)
@@ -65,6 +66,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
 14. [SSR과 CSR의 차이에 대해 설명해 주세요.](/web/SSR_CSR.md)
 15. [SPA에 대해 설명해 주세요.](/web/SPA.md)
 16. [null, undefined, undeclared, NaN에 대해 설명해 주세요.](/languages/javascript/null_undefined_nan.md)
+17. [이벤트 버블링, 이벤트 캡처링, 이벤트 위임에 대해 설명해 주세요.](/languages/javascript/event_delegation.md)
 # ⭐⭐⭐
 # ⭐⭐
 # ⭐
