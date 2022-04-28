@@ -14,9 +14,10 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
     - [margin & padding](/languages/css/magin_padding.md)
     - [position](/languages/css/position.md)
 - Javascript
-    - [Asynchronous](/languages/javascript/async.md)
-    - [Closure](/languages/javascript/closure.md)
-    - [Hoisting](/languages/javascript/hoisting.md)
+    - [자바스크립트는 어떤 언어인가요?](/languages/javascript/javascript.md)
+    - [자바스크립트에서의 비동기처리](/languages/javascript/async.md)
+    - [클로저](/languages/javascript/closure.md)
+    - [호이스팅](/languages/javascript/hoisting.md)
     - [this](/languages/javascript/this.md)
     - [null, undefined, undeclared, NaN](/languages/javascript/null_undefined_nan.md)
     - [event delegation](/languages/javascript/event_delegation.md)
@@ -67,6 +68,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
 15. [SPA에 대해 설명해 주세요.](/web/SPA.md)
 16. [null, undefined, undeclared, NaN에 대해 설명해 주세요.](/languages/javascript/null_undefined_nan.md)
 17. [이벤트 버블링, 이벤트 캡처링, 이벤트 위임에 대해 설명해 주세요.](/languages/javascript/event_delegation.md)
+18. [자바스크립트는 어떤 언어인가요?](/languages/javascript/javascript.md)
 # ⭐⭐⭐
 # ⭐⭐
 # ⭐
