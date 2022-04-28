@@ -15,6 +15,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
     - [position](/languages/css/position.md)
 - Javascript
     - [자바스크립트는 어떤 언어인가요?](/languages/javascript/javascript.md)
+    - [자바스크립트의 런타임](/languages/javascript/runtime.md)스크립트의 런타임](/languages/javascript/runtime.md)
     - [자바스크립트에서의 비동기처리](/languages/javascript/async.md)
     - [클로저](/languages/javascript/closure.md)
     - [호이스팅](/languages/javascript/hoisting.md)
@@ -69,6 +70,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
 16. [null, undefined, undeclared, NaN에 대해 설명해 주세요.](/languages/javascript/null_undefined_nan.md)
 17. [이벤트 버블링, 이벤트 캡처링, 이벤트 위임에 대해 설명해 주세요.](/languages/javascript/event_delegation.md)
 18. [자바스크립트는 어떤 언어인가요?](/languages/javascript/javascript.md)
+19. [자바스크립트의 런타임에 대해 설명해 주세요.](/languages/javascript/runtime.md)]
 # ⭐⭐⭐
 # ⭐⭐
 # ⭐
