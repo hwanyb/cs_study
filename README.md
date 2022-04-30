@@ -22,6 +22,7 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
     - [this](/languages/javascript/this.md)
     - [null, undefined, undeclared, NaN](/languages/javascript/null_undefined_nan.md)
     - [event delegation](/languages/javascript/event_delegation.md)
+    - [var, let, const](/languages/javascript/var_const_let.md)
 # 📌 Web
 - [브라우저 동작 원리](/web/browser_works.md)
 - [브라우저 스토리지](/web/browser_storage.md)
@@ -70,8 +71,11 @@ CS 지식, 프론트엔드 지식을 정리하여 학습하기 위해 만들어 
 16. [null, undefined, undeclared, NaN에 대해 설명해 주세요.](/languages/javascript/null_undefined_nan.md)
 17. [이벤트 버블링, 이벤트 캡처링, 이벤트 위임에 대해 설명해 주세요.](/languages/javascript/event_delegation.md)
 18. [자바스크립트는 어떤 언어인가요?](/languages/javascript/javascript.md)
-19. [자바스크립트의 런타임에 대해 설명해 주세요.](/languages/javascript/runtime.md)]
+19. [자바스크립트의 런타임에 대해 설명해 주세요.](/languages/javascript/runtime.md)
+
 # ⭐⭐⭐
+    JS프레임워크, 플러그인, 그 외 사용법 등 중요한 질문입니다.
+20. [var, let, const의 차이점을 설명해 주세요.](/languages/javascript/var_const_let.md)
 # ⭐⭐
 # ⭐
 </details>
